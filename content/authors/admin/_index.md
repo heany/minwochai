@@ -2,10 +2,10 @@
 organizations:
   - name: Stanford University
     url: ""
-superuser: true
+superuser: false
 authors:
   - admin
-title: chaiheyan
+title: Nelson Bighetti
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
