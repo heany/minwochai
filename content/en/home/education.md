@@ -18,28 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "National University of Defense Technology"
+  title = "Harbin Institute of Technology (Shenzhen)"
   company = "M.S. in Computer Science and Technology"
-  company_url = "https://en.wikipedia.org/wiki/National_University_of_Defense_Technology"
-  location = "ChangSha, China"
-  date_start = "2017-09-01"
-  date_end = "2020-06-01"
+  company_url = "https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology_(Shenzhen)"
+  location = "Shenzhan, China"
+  date_start = "2020-03-01"
+  date_end = "current"
   description = """
   
-  * Postgraduate recommendation
-  * Outstanding freshman scholarship
-  * Lab: National Laboratory for Parallel and Distributed Processing (PDL)
+  * Lab: Computer Application Research Center (CARC)
+  * supervisor: Fang Binxing, Liao Qing
   """
 
 [[experience]]
-  title = "Chongqing University"
-  company = "B.S. in Software Engineering"
-  company_url = "https://en.wikipedia.org/wiki/Chongqing_University"
-  location = "ChongQing, China"
+  title = "Harbin Institute of Technology (Shenzhen)"
+  company = "M.S. in Computer Science and Technology"
+  company_url = "https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology_(Shenzhen)"
+  location = "Shenzhan, China"
+  date_start = "2017-09-01"
+  date_end = "2020-01-01"
+  description = """
+  
+  * Postgraduate recommendation
+  * Lab: Computer Application Research Center (CARC)
+  """
+
+[[experience]]
+  title = "Anhui University"
+  company = "B.S. in Computer Science and Technology"
+  company_url = "https://en.wikipedia.org/wiki/Anhui_University"
+  location = "Hefei, China"
   date_start = "2013-09-01"
   date_end = "2017-06-30"
   description = """
 
-  - 2017 TongZhen Scholarship (Top 4%)
   """
 +++
