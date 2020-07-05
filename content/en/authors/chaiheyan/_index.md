@@ -60,7 +60,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "blogger-b"
   icon_pack = "fab"
-  link = "xxx"
+  link = "http://blog.chaiheyan.space"
 
 [[social]]
   icon = "github"
