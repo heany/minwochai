@@ -28,7 +28,7 @@ publication_short = "In *STC*"
 summary = "Algorithms and Architectures for Parallel Processing - 19th InternationalConference, {ICA3PP} 2019, Melbourne, VIC, Australia, December 9-11,2019, Proceedings, Part {I}"
 
 # Digital Object Identifier (DOI)
-doi = "10.1007/978-3-030-38991-8\_11"
+doi = "https://doi.org/10.1007/978-3-030-38991-8_11"
 
 # Is this a featured publication? (true/false)
 featured = false
