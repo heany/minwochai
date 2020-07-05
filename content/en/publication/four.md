@@ -78,4 +78,27 @@ links = [{name = "Code", url = "http://github.com"}]
   focal_point = ""
 +++
 
+**Citeable as**
 
+```shell
+@inproceedings{DBLP:conf/trustcom/ChaiYJ019,
+  author    = {Heyan Chai and
+               Shuqiang Yang and
+               Zoe Lin Jiang and
+               Xuan Wang},
+  title     = {A Robust and Reversible Watermarking Technique for Relational Dataset
+               Based on Clustering},
+  booktitle = {18th {IEEE} International Conference On Trust, Security And Privacy
+               In Computing And Communications / 13th {IEEE} International Conference
+               On Big Data Science And Engineering, TrustCom/BigDataSE 2019, Rotorua,
+               New Zealand, August 5-8, 2019},
+  pages     = {411--418},
+  publisher = {{IEEE}},
+  year      = {2019},
+  url       = {https://doi.org/10.1109/TrustCom/BigDataSE.2019.00062},
+  doi       = {10.1109/TrustCom/BigDataSE.2019.00062},
+  timestamp = {Wed, 24 Jun 2020 09:54:20 +0200},
+  biburl    = {https://dblp.org/rec/conf/trustcom/ChaiYJ019.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
