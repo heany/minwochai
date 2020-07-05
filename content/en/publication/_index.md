@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "This is a simple description"
   image: "img/ai.jpg"
 ---
