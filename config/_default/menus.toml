@@ -10,13 +10,13 @@
 
 [[main]]
   name = "Skills"
-  url = "#Skills"
+  url = "#skills"
   weight = 20
 
 [[main]]
   name = "Education"
-  url = "#eduaction"
-  weight = 31
+  url = "#education"
+  weight = 30
 
 [[main]]
   name = "Experience"
