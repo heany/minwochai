@@ -1,15 +1,15 @@
 +++
 # Display name
-name = "Xinyu You"
+name = "heyan chai"
 
 # Username (this should match the folder name)
-authors = ["XinyuYou"]
+authors = ["chaiheyan"]
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Postgraduate Student of Computer Science"
+role = "Ph.D Student of Computer Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -19,7 +19,7 @@ role = "Postgraduate Student of Computer Science"
 bio = "To create, to experience."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "youxinyu07@gmail.com"
+email = "chaiheyan@stu.hit.edu.cn"
 
 # List (academic) interests or hobbies
 #interests = [
@@ -50,22 +50,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:youxinyu07@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:chaiheyan@stu.hit.edu.cn"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/yxydiscovery"
+  link = "https://twitter.com/minwochai"
 
 [[social]]
   icon = "blogger-b"
   icon_pack = "fab"
-  link = "http://data2art.com"
+  link = "xxx"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/yogayu"
+  link = "https://github.com/heany"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
