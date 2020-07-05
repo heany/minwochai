@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology_(Shenzhen)"
   location = "Shenzhan, China"
   date_start = "2020-03-01"
-  date_end = "current"
+  date_end = "2020-03-01"
   description = """
   
   * Lab: Computer Application Research Center (CARC)
