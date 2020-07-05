@@ -78,6 +78,6 @@ links = [{name = "Code", url = "http://github.com"}]
   focal_point = ""
 +++
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}
+{{% /alert %}} -->
