@@ -1,81 +1,52 @@
 +++
-title = "A New Robust and Reversible Watermarking Technique Based on Erasure Code"
-date = 2019
+abstract = "The (inter)dental approximant is a little-studied speech sound in the Philippines and Western Australia. In this paper, we document the articulation of the sound, providing acoustic and video data from Kagayanen and Limos Kalinga, respectively. The sound is attested in at least fifteen languages. It is contrastive in five Western Australian languages, while in the Philippines it generally patterns as an allophone of /l/ but has emerged recently as a separate phoneme due to contact. It arose independently in the two regions. The sound is easily describable in terms of values of phonological features or phonetic parameters. All of these factors argue for the inclusion of the sound in the International Phonetic Alphabet."
+authors = ["Kenneth S. Olson", "Jeff Mielke","Josephine Sanicas-Daguman","Carol Jean Pebley", "Hugh Paterson III"]
+date = "2010-07-08"
+image_preview = ""
+math = true
+publication_types = ["2"]
+publication = "In the *Journal of the International Phonetic Association*"
+publication_short = "In *JIPA*"
+selected = true
+title = "The phonetic status of the (inter)dental approximant."
+url_code = ""
+url_dataset = ""
+url_pdf = "https://www.sil.org/resources/archives/48235"
+url_project = "/project/2010-interdental-approximant/"
+url_slides = ""
+url_video = ""
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Heyan Chai", "Shuqiang Yang", "Zoe Lin Jiang", "Xuan Wang"]
-# Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Preprint / Working Paper
-# 4 = Report
-# 5 = Book
-# 6 = Book section
-# 7 = Thesis
-# 8 = Patent
-publication_types = ["1"]
+[[url_custom]]
+name = "Publisher Page"
+url = "https://doi.org/10.1017/S0025100309990296"
 
-# Publication name and optional abbreviated version.
-publication = "In *Source Themes Conference*"
-publication_short = "In *STC*"
+[[url_custom]]
+name = "SIL Archive"
+url = "https://www.sil.org/resources/archives/48235"
 
-# Abstract.
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/kagayanen-interdental-wide.png"
+caption = "Kagayanen interdental approximant :smile:"
 
-# Summary. An optional shortened abstract.
-summary = "Algorithms and Architectures for Parallel Processing - 19th International Conference, {ICA3PP} 2019, Melbourne, VIC, Australia, December 9-11,2019, Proceedings, Part {I}"
-
-# Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1007/978-3-030-38991-8_11"
-
-# Is this a featured publication? (true/false)
-featured = false
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Publication"]
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = ["internal-project"]
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = "example"
-
-# Links (optional).
-#url_pdf = ""
-#url_code = "#"
-#url_dataset = "#"
-#url_project = ""
-#url_slides = ""
-#url_video = "#"
-#url_poster = "#"
-#url_source = "#"
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Code", url = "http://github.com"}]
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
 +++
+**Citeable as**:
 
+<!-- Kenneth S. Olson, Jeff Mielke, Josephine Sanicas-Daguman, Carol Jean Pebley and Hugh J. Paterson III (2010) *The phonetic status of the (inter)dental approximant*. Journal of the International Phonetic Association, 40.2 , pp. 199-215. doi:[10.1017/S0025100309990296](https://doi.org/10.1017/S0025100309990296) -->
 
+<span class="Z3988" title="ctx_ver=Z39.882004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=The+phonetic+status+of+the+%28inter%29dental+approximant&amp;rft.title=Journal+of+the+International+Phonetic+Association&amp;rft.stitle=JIPA&amp;rft.issn=1475-3502&amp;rft.eissn=1475-3502&amp;rft.date=2010-08-01&amp;rft.volume=40&amp;rft.issue=2&amp;rft.spage=199&amp;rft.epage=215&amp;rft.aulast=Olson&amp;rft.aufirst=Kenneth+S.&amp;rft.auinit=KSO&amp;rft.au=Kenneth+S.+KSO+Olson&amp;rft.au=Jeff+Mielke&amp;rft.au=Josephine+Sanicas-Daguman&amp;rft.au=Carol+Jean+Pebley&amp;rft.au=Hugh+J.+Paterson+III&amp;rft_id=info:doi/10.1017%2FS0025100309990296">Kenneth S. Olson, Jeff Mielke, Josephine Sanicas-Daguman, Carol Jean Pebley and Hugh J. Paterson (2010) <em>The phonetic status of the (inter)dental approximant</em>. Journal of the International Phonetic Association, 40 , pp. 199-215. doi:<a href="http://journals.cambridge.org/abstract_S0025100309990296">10.1017/S0025100309990296</a></span>
+
+**Comments**:
+My contribution in this collective work involved extensive library research, the collection of sources, translation of sources, and evaluating the personal un-published field notes of previous scholars. Encouraged in the historical comparative work by Ken Olson, I suggest that there is enough evidence to support the idea that the interdental approximant is a retention, rather than independent innovations. My research work on this topic resulted in me presenting two additional academic presentations. See the interdental approximant project description for further details.
+
+**Other works on the interdental approximant**:
+
+* Mielke, Jeff, Kenneth S. Olson, Adam Baker & Diana Archangeli. 2011. Articulation of the Kagayanen interdental approximant: An ultrasound study. Journal of Phonetics 39(3). 403–412. DOI: [http://dx.doi.org/10.1016/j.wocn.2011.02.008](http://dx.doi.org/10.1016/j.wocn.2011.02.008)
+
+* Olson, Kenneth S., Emy T. Ballenas & Nilo M. Borromeo. 2009. Buhi’non (Bikol) digital wordlist: Presentation form. Language Documentation & Conservation 3(2). 213–225. URI: [http://hdl.handle.net/10125/4440](http://hdl.handle.net/10125/4440)
+
+* Olson, Kenneth S., Glenn Machlan & Nelson Amangao. 2008. Minangali (Kalinga) digital wordlist: Presentation form. Language Documentation & Conservation 2(1). 141–156. URI [http://hdl.handle.net/10125/1772](http://hdl.handle.net/10125/1772)
+
+* Olson, Kenneth S. & Jeff Mielke. 2008. Acoustic properties of the interdental approximant in Kagayanen. Journal of the Acoustical Society of America 123(5). 3460. DOI [http://dx.doi.org/10.1121/1.2934307](http://dx.doi.org/10.1121/1.2934307)
+
+* Matthew Harley (2012) Unusual sounds in Nigerian languages. In Advances in Minority Language Research in Nigeria Part I (eds.) Roger M. Blench and Stuart McGill. Kay Williamson Educational Foundation African languages Monographs No. 5. pages: 38-65. Rüdiger Köppe Verlag: Köln
