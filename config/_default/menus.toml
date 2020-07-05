@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "Skills"
-  url = "#skills"
+  name = "Education"
+  url = "#education"
   weight = 20
 
 [[main]]
-  name = "Education"
-  url = "#education"
+  name = "Skills"
+  url = "#skills"
   weight = 30
 
 [[main]]
@@ -40,10 +40,10 @@
     url = "files/chaiheyan_Resume.pdf"
     weight = 70
 
-[[main]]
-  name = "中文"
-  url = "/zh/"
-  weight = 88
+# [[main]]
+#   name = "中文"
+#   url = "/zh/"
+#   weight = 88
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
