@@ -4,29 +4,46 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "About"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Skills"
+  url = "#Skills"
   weight = 20
+
+[[main]]
+  name = "Education"
+  url = "#eduaction"
+  weight = 31
+
+[[main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 40
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 50
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  name = "Blog"
+  url = "https://www.chaiheyan.space"
+  weight = 51
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[main]]
+    name = "Resume"
+    url = "files/chaiheyan_Resume.pdf"
+    weight = 70
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+  name = "中文"
+  url = "/zh/"
+  weight = 88
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
