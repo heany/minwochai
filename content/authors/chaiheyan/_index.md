@@ -3,4 +3,4 @@ title: chaiheyan
 avatar_filename: avatar
 superuser: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Heyan Chai received his MEng degree in com- puter science and technology in 2020 from the Department of Computer Science and Technology of the Harbin Institute of Technology (Shenzhen), China. He is currently working toward the Ph.D. degree at the Department of Computer Science and Technology of Harbin Institute of Technology (Shenzhen), China. His research interests include data mining, multi-task learning and few-shot learning.
