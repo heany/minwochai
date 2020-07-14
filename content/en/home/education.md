@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   
   * Lab: Computer Application Research Center (CARC)
-  * supervisor: Fang Binxing, Liao Qing
+  * Advisor: Prof. Fang Binxing, Prof. Liao Qing
   """
 
 [[experience]]
@@ -41,6 +41,7 @@ date_format = "Jan 2006"
   
   * Postgraduate recommendation
   * Lab: Computer Application Research Center (CARC)
+  * Advisor: Prof. Yang Shuqiang.
   """
 
 [[experience]]
@@ -52,6 +53,5 @@ date_format = "Jan 2006"
   date_end = "2017-06-30"
   description = """
 
-  - 2017 xxx
   """
 +++
